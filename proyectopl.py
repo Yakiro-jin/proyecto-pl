@@ -168,3 +168,10 @@ resolver_button.grid(row=6, column=0, columnspan=2, padx=10, pady=10)
 
 # Ejecutar la interfaz gráfica
 root.mainloop()
+
+# Ejemplo de uso
+#modo = "max"
+#funcion_objetivo = [32, 26, 20]
+#restricciones = [[90, 20, 40], [30, 80, 60], [10, 20, 60]]
+#limites = [200, 180, 150]
+#operadores = ['<=', '<=', '<='] pip install scipy cvxpy instalar libreria para que funcione
